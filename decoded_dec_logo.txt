@@ -1,0 +1,164 @@
+3513	2930	moveto							# -[ mr vy!]-
+2757	2167	2758	2587	3217	2932	curveto			# -[ mt rQ h[ kF aw kE"]-
+3977	1280	3165	1280	2759	1719	curveto			# -[ Zw kG T@ q] T@ ~I"]-
+5227	2153	5225	1718	4801	1280	curveto			# -[ T@ AKA Zv AQi ai AQk"]-
+4407	2930	4760	2932	5225	2587	curveto			# -[ h[ AQi mt AJX mr ADw"]-
+closepath								# -[#]-
+5787	2953	moveto							# -[ nI AZ[!]-
+7600	2953	lineto							# -[ nI Avp$]-
+7600	3843	lineto							# -[ |C Avp$]-
+1960	3843	lineto							# -[ |C ^h$]-
+1960	2923	lineto							# -[ mk ^h$]-
+2220	2923	lineto							# -[ mk bl$]-
+1813	1990	1813	2531	2144	2848	curveto			# -[ l` a` gc \U _F \U"]-
+3977	417	2282	417	1812	1426	curveto			# -[ VR \T Fa cj Fa ~I"]-
+6157	2067	6157	1171	5414	417	curveto			# -[ Fa ATf RS A`M `S A`M"]-
+5787	2953	6039	2725	6157	2399	curveto			# -[ e_ A`M je A^W nI AZ["]-
+closepath								# -[#]-
+4250 round-to-pixels							# -[%]-
+0	4250	moveto							# -[ !]-
+4250 round-to-pixels							# -[%]-
+10000	4250	lineto							# -[ B\P$]-
+10000	0	lineto							# -[  B\P$]-
+0	0	lineto							# -[  $]-
+closepath								# -[#]-
+4250 round-to-pixels							# -[&]-
+0	4950	traslate						# -[ ']-
+4250 round-to-pixels							# -[%]-
+0	4250	moveto							# -[ !]-
+4250 round-to-pixels							# -[%]-
+10000	4250	lineto							# -[ B\P$]-
+10000	0	lineto							# -[  B\P$]-
+0	0	lineto							# -[  $]-
+closepath								# -[#]-
+1960	1675	moveto							# -[ ZK ^h!]-
+6000	1675	lineto							# -[ ZK A]p$]-
+6000	2575	lineto							# -[ hO A]p$]-
+1960	2575	lineto							# -[ hO ^h$]-
+closepath								# -[#]-
+6550	1675	moveto							# -[ ZK AfV!]-
+7550	1675	lineto							# -[ ZK Au~$]-
+7550	2575	lineto							# -[ hO Au~$]-
+6550	2575	lineto							# -[ hO AfV$]-
+closepath								# -[#]-
+4250 round-to-pixels							# -[&]-
+0	4950	traslate						# -[ ']-
+4478	2843	moveto							# -[ l[ AE~!]-
+5208	2065	5208	2439	4837	2843	curveto			# -[ l[ AKe fG AQX `Q AQX"]-
+4084	1245	5003	1245	5208	1743	curveto			# -[ [O AQX S] ANK S] ?t"]-
+2962	2060	2962	1857	3105	1245	curveto			# -[ S] pa ]A nR `L nR"]-
+3667	2843	3239	2843	2962	2463	curveto			# -[ f_ nR l[ rg l[ yS"]-
+closepath								# -[#]-
+10000	0	moveto							# -[  B\P!]-
+4250 round-to-pixels							# -[%]-
+10000	4250	lineto							# -[ B\P$]-
+4250 round-to-pixels							# -[%]-
+0	4250	lineto							# -[ $]-
+0	0	lineto							# -[  $]-
+closepath								# -[#]-
+5609	2852	moveto							# -[ ld AWi!]-
+6044	2018	6044	2454	5742	2759	curveto			# -[ kG AYn fV A^\ _b A^\"]-
+3955	397	5652	397	6043	1341	curveto			# -[ T} A^[ FM AXT FM }s"]-
+2168	1906	2168	1467	2617	398	curveto			# -[ FN hy V{ ax ]r ax"]-
+2547	2828	2443	2732	2167	2380	curveto			# -[ eL aw jl fK lL gs"]-
+2126	2828	lineto							# -[ lL aN$]-
+1511	1975	1511	2509	1815	2828	curveto			# -[ lL \W gM Wg ^w Wg"]-
+1953	1467	1807	1467	1512	1515	curveto			# -[ Wk Wh V{ \O V{ ^a"]-
+1953	527	lineto							# -[ HO ^a$]-
+803	1918	804	828	1486	527	curveto			# -[ HO WN L| Ld ]~ Lc"]-
+1316	3355	1176	3216	803	2894	curveto			# -[ mN Lc rP RX t[ Td"]-
+2017	3647	1758	3647	1434	3472	curveto			# -[ vP VZ x? [^ x? _a"]-
+6000	3647	lineto							# -[ x? A]p$]-
+6000	2853	lineto							# -[ le A]p$]-
+closepath								# -[#]-
+4250 round-to-pixels							# -[&]-
+0	4950	traslate						# -[ ']-
+4250 round-to-pixels							# -[%]-
+0	4250	moveto							# -[ !]-
+4250 round-to-pixels							# -[%]-
+10000	4250	lineto							# -[ B\P$]-
+10000	0	lineto							# -[  B\P$]-
+0	0	lineto							# -[  $]-
+closepath								# -[#]-
+1960	1675	moveto							# -[ ZK ^h!]-
+6000	1675	lineto							# -[ ZK A]p$]-
+6000	2575	lineto							# -[ hO A]p$]-
+1960	2575	lineto							# -[ hO ^h$]-
+closepath								# -[#]-
+6550	1675	moveto							# -[ ZK AfV!]-
+7550	1675	lineto							# -[ ZK Au~$]-
+7550	2575	lineto							# -[ hO Au~$]-
+6550	2575	lineto							# -[ hO AfV$]-
+closepath								# -[#]-
+4250 round-to-pixels							# -[&]-
+0	4950	traslate						# -[ ']-
+7525	2328	moveto							# -[ dX Aue!]-
+7525	1505	lineto							# -[ Wa Aue$]-
+6071	1505	lineto							# -[ Wa A^w$]-
+6071	1074	lineto							# -[ Pr A^w$]-
+5396	1074	lineto							# -[ Pr ATT$]-
+5396	1505	lineto							# -[ Wa ATT$]-
+2852	1505	lineto							# -[ Wa ld$]-
+1987	2448	1986	1754	2367	1505	curveto			# -[ Wa d? [Z _B fP _C"]-
+2034	3042	1985	2760	1987	2773	curveto			# -[ kU _C kH _A ob _r"]-
+2874	3042	lineto							# -[ ob lz$]-
+2832	2711	2829	2801	2842	2858	curveto			# -[ lj lZ kq lM jW lP"]-
+3206	2328	2898	2328	2837	2538	curveto			# -[ gj lU dX mR dX rF"]-
+5395	2328	lineto							# -[ dX ATS$]-
+5395	2980	lineto							# -[ nd ATS$]-
+6071	2980	lineto							# -[ nd A^w$]-
+6071	2328	lineto							# -[ dX A^w$]-
+closepath								# -[#]-
+4250 round-to-pixels							# -[%]-
+0	4250	moveto							# -[ !]-
+0	0	lineto							# -[  $]-
+10000	0	lineto							# -[  B\P$]-
+4250 round-to-pixels							# -[%]-
+10000	4250	lineto							# -[ B\P$]-
+closepath								# -[#]-
+4250 round-to-pixels							# -[&]-
+0	4950	traslate						# -[ ']-
+0	0	moveto							# -[  !]-
+10000	0	lineto							# -[  B\P$]-
+4250 round-to-pixels							# -[%]-
+10000	4250	lineto							# -[ B\P$]-
+4250 round-to-pixels							# -[%]-
+0	4250	lineto							# -[ $]-
+closepath								# -[#]-
+4728	699	moveto							# -[ J{ AIx!]-
+4728	1470	lineto							# -[ V~ AIx$]-
+5353	2086	5353	1682	5138	1470	curveto			# -[ V~ APR ZR ASi `f ASi"]-
+4708	2708	5067	2709	5354	2730	curveto			# -[ jj ASj jU AOK jT AId"]-
+4419	1740	4557	2347	4553	2310	curveto			# -[ dF AGI dk AGM [L AEC"]-
+3112	496	3911	497	4241	969	curveto			# -[ OI ABQ Gq }G Gp ph"]-
+1915	1680	1914	1053	2331	497	curveto			# -[ Gq d[ P] ]z ZP ]{"]-
+2290	2698	2117	2438	1914	2308	curveto			# -[ dD ]z fF aE jJ cr"]-
+1978	2698	lineto							# -[ jJ ^z$]-
+1978	3682	lineto							# -[ yb ^z$]-
+2706	3509	2425	3511	2352	3450	curveto			# -[ uz dp vw ey vu jR"]-
+5080	3509	5080	3509	2926	3510	curveto			# -[ vv mn vu AOX vu AOX"]-
+5855	3143	5768	3288	5507	3510	curveto			# -[ vv AVC sX AZH qG A[_"]-
+6098	2086	6097	2334	6071	2781	curveto			# -[ k] A^w d^ A_Q `f A_R"]-
+4728	699	5653	698	6096	1205	curveto			# -[ Ru A_P Jz AXU J{ AIx"]-
+closepath								# -[#]-
+3946	2708	moveto							# -[ jT }j!]-
+3401	2708	lineto							# -[ jT uI$]-
+2669	1810	2670	2405	3152	2708	curveto			# -[ jT qP ee in \R im"]-
+3162	1357	2883	1358	2668	1520	curveto			# -[ Wp il UN mC UM qZ"]-
+3697	1796	3657	1595	3442	1358	curveto			# -[ UN ur X{ yI \D yq"]-
+3946	2708	3862	2486	3739	2005	curveto			# -[ _U z[ fv |V jT }j"]-
+closepath								# -[#]-
+4250 round-to-pixels							# -[&]-
+0	4950	traslate						# -[ ']-
+4250 round-to-pixels							# -[%]-
+0	4250	moveto							# -[ !]-
+4250 round-to-pixels							# -[%]-
+10000	4250	lineto							# -[ B\P$]-
+10000	0	lineto							# -[  B\P$]-
+0	0	lineto							# -[  $]-
+closepath								# -[#]-
+1960	1675	moveto							# -[ ZK ^h!]-
+7650	1675	lineto							# -[ ZK Awb$]-
+7650	2575	lineto							# -[ hO Awb$]-
+1960	2575	lineto							# -[ hO ^h$]-
+closepath								# -[#]-
